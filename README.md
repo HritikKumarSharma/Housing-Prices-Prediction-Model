@@ -1,1 +1,1 @@
-# Housing-Prices-Prediction-Modal
+# Housing-Prices-Prediction-Model
